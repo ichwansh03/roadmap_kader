@@ -1,1 +1,123 @@
-<mxfile host="app.diagrams.net" modified="2022-09-27T23:44:03.998Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" version="20.3.7" etag="cOplf8oXYeCh1VuHsOvw" type="github"><diagram id="4Dj1FtCMH_W-aKeGootj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-28T02:32:08.628Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="GcafjZOBBRb59daAP6Cg" version="20.3.7" type="github">
+  <diagram id="4Dj1FtCMH_W-aKeGootj" name="Page-1">
+    <mxGraphModel dx="782" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xn1o9ajcf7HGEoiar21K-33" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="283" y="335" width="362" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="xn1o9ajcf7HGEoiar21K-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry y="162" width="240" height="408" as="geometry" />
+        </mxCell>
+        <mxCell id="xn1o9ajcf7HGEoiar21K-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="255" y="196" width="315" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="xn1o9ajcf7HGEoiar21K-1" value="Amal-Amal Kaderisasi:&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Rekrutmen&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. Pembentukan&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. Penyediaan Ladang Amal&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4. Monitoring&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5. Penyiapan Subjek Kaderisasi&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingTop=0;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="610" y="10" width="170" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xn1o9ajcf7HGEoiar21K-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xn1o9ajcf7HGEoiar21K-2" target="xn1o9ajcf7HGEoiar21K-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xn1o9ajcf7HGEoiar21K-2" value="Rekrutmen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="305" y="30" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xn1o9ajcf7HGEoiar21K-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xn1o9ajcf7HGEoiar21K-3" target="xn1o9ajcf7HGEoiar21K-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xn1o9ajcf7HGEoiar21K-3" value="Interview/Ta&#39;aruf" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="305" y="130" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xn1o9ajcf7HGEoiar21K-5" value="Referensi : RMDK Gamais hal.66-73" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="74" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xn1o9ajcf7HGEoiar21K-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xn1o9ajcf7HGEoiar21K-7" target="xn1o9ajcf7HGEoiar21K-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xn1o9ajcf7HGEoiar21K-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xn1o9ajcf7HGEoiar21K-7" target="xn1o9ajcf7HGEoiar21K-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xn1o9ajcf7HGEoiar21K-7" value="Stadium General &amp;amp; Outbond" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="265" y="220" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xn1o9ajcf7HGEoiar21K-9" value="Mentoring" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="433" y="220" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xn1o9ajcf7HGEoiar21K-13" value="Fase tabligh &amp;amp; ta&#39;lim : mengubah yang tadinya bodoh (jahiliyah) menjadi tahu (ma&#39;rifah)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="274" y="276" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xn1o9ajcf7HGEoiar21K-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xn1o9ajcf7HGEoiar21K-15" target="xn1o9ajcf7HGEoiar21K-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xn1o9ajcf7HGEoiar21K-15" value="Agenda Pembentukan&lt;br&gt;(Mabit/Jalasah, Riyadho, Rihlah, Diskusi, Makan Bersama)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="79" y="251" width="145" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="xn1o9ajcf7HGEoiar21K-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="xn1o9ajcf7HGEoiar21K-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="212" y="419" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xn1o9ajcf7HGEoiar21K-17" value="LKMI-TD&amp;nbsp;&lt;br&gt;(berjarak +- 4 bulan setelah SG)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="92" y="392" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xn1o9ajcf7HGEoiar21K-19" value="Referensi : RMDK Gamais hal.73-79" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="12" y="186" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xn1o9ajcf7HGEoiar21K-24" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="xn1o9ajcf7HGEoiar21K-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="124" as="sourcePoint" />
+            <mxPoint x="340" y="74" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xn1o9ajcf7HGEoiar21K-25" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="132" y="236" as="sourcePoint" />
+            <mxPoint x="147" y="254.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xn1o9ajcf7HGEoiar21K-27" value="Fase takwin (pembentukan, penyeleksian dan latihan beramal) : mengubah yang tadinya tahu menjadi terstruktur pengetahuannya dan mulai berlatih melakukan amalan-amalan Islam yang nyata" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5" y="481" width="225" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="xn1o9ajcf7HGEoiar21K-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xn1o9ajcf7HGEoiar21K-28" target="xn1o9ajcf7HGEoiar21K-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xn1o9ajcf7HGEoiar21K-28" value="PMDK-TD&lt;br&gt;(Orientasi umum)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="299" y="408" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xn1o9ajcf7HGEoiar21K-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xn1o9ajcf7HGEoiar21K-29" target="xn1o9ajcf7HGEoiar21K-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xn1o9ajcf7HGEoiar21K-29" value="Sekolah Kepengurusan&lt;br&gt;(Orientasi khusus)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="498" y="408" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xn1o9ajcf7HGEoiar21K-32" value="Referensi : RMDK Gamais hal.79-91" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="399" y="344" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xn1o9ajcf7HGEoiar21K-34" value="Fase tandzhim : pengorganisasian, penyusunan pasukan, dan pemobilisasian potensi untuk tujuan dakwah" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="321" y="476" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xn1o9ajcf7HGEoiar21K-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xn1o9ajcf7HGEoiar21K-35" target="xn1o9ajcf7HGEoiar21K-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xn1o9ajcf7HGEoiar21K-35" value="Magang Bidang/Biro" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="659" y="548" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xn1o9ajcf7HGEoiar21K-36" value="Training For Trainer (TFT)/Daurah Murobbi/Tasqif Pengurus" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="644" y="649" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xn1o9ajcf7HGEoiar21K-39" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="510" y="538" width="331" height="252" as="geometry" />
+        </mxCell>
+        <mxCell id="xn1o9ajcf7HGEoiar21K-40" value="Referensi : RMDK Gamais hal.91-95" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="521" y="586" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xn1o9ajcf7HGEoiar21K-41" value="Fase tanfidz : pelaksanaan kerja dakwah yang khusus" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="539" y="723" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xn1o9ajcf7HGEoiar21K-42" value="Catatan:&lt;br&gt;1. Penyampaian gambaran materi secara khusus dan ringkas saat mentoring jika kader berhalangan hadir pada salah satu fase kegiatan&lt;br&gt;2. Penyesuaian fikrah kader jika terekrut diluar waktu rekrutmen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingTop=0;spacingLeft=10;align=left;" vertex="1" parent="1">
+          <mxGeometry x="20" y="608" width="250" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
